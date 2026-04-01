@@ -1,0 +1,18 @@
+[
+    {
+          "timestamp": "2026-03-18T14:30:00",
+          "round": "405",
+          "date": "March 18, 2026",
+          "program": "French-Language proficiency 2026-Version 2",
+          "invitations": "4,000",
+          "crs_score": "393"
+    },
+    {
+          "timestamp": "2026-03-31T10:00:00",
+          "round": "407",
+          "date": "March 31, 2026",
+          "program": "Canadian Experience Class",
+          "invitations": "2,250",
+          "crs_score": "509"
+    }
+]
